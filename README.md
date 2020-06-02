@@ -5,7 +5,7 @@ Programa, kuri nuskaityto vartotojo nurodytą tekstinį failą (.txt) ir atspaus
 ## Įdiegimo instrukcija 
 Norint paleisti programos kodą reikia:
 1. Atsisiųsti programos kodą 
-  
+  <br />[releases](https://github.com/Makstutyte/Objektinis-programavimas-text-word-counter/releases)
 2. Įsidiegti C++ compiler 
    <br />[GCC](https://gcc.gnu.org/)
 3. Naudojant komandinę eilutę susirasti programos kodo buvimo vietą (directory) 
