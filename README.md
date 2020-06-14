@@ -23,4 +23,3 @@ Vartotojo veiksmų seka:
 ## Programoje naudojama
 * Asociaciatyvus konteineris - std::multimap
 * Sekos konteineris - std::vector
-* Panaudotos koncepcijos - std::regex, std::make_pair
