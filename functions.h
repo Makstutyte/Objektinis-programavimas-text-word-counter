@@ -92,10 +92,10 @@ void ReadFile(std::vector<std::string> &url, std::multimap<std::string, Word> &w
           		// if (std::regex_match (words[i], std::regex("^(https?:\\/\\/)?([\\da-z\\.-]+)\\.([a-z\\.]{2,6})([\\/\\w \\.-]*)*\\/?$")))
           		   // url.push_back(words[i]);
          
-			else 
+	    else 
             {
-				word = lower_letters_no_punctuation(words[i]);
-				it = word_data.find(word);
+		word = lower_letters_no_punctuation(words[i]);
+		it = word_data.find(word);
                 Word tmp;
 
                      if (word_data.find(word) == word_data.end()) 
